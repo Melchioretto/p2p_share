@@ -4,10 +4,9 @@ import socket
 import threading
 from rich.console import Console
 from rich.table import Table
-from teste import tested
 import threading
 import sys
-
+import tested from teste
 
 """para conectar o Peer"""
 IP_PEER = str(sys.argv[1])
