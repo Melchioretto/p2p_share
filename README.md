@@ -17,7 +17,7 @@ Para instalar a Rede P2P, siga estas etapas:
 
 Abra o terminal e realize o Git Clone com o seguinte comando
 ```
-git clone https://github.com/Grasiella/rede-p2p.git
+git clone https://github.com/Melchioretto/rede-p2p.git
 ```
 Esse comando criará um diretório chamado `rede-p2p`
 
